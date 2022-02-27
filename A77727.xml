@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pietatis in parentes disquisitio: or, The duty of children towards their parents: truly examined and stated. : In a letter to a friend in the city.</title>
+            <author>Brydall, John, b. 1635?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77727</idno>
+            <idno type="STC">Wing B5266</idno>
+            <idno type="STC">ESTC R215721</idno>
+            <idno type="EEBO-CITATION">45098211</idno>
+            <idno type="OCLC">ocm 45098211</idno>
+            <idno type="VID">171192</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171192)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2566:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pietatis in parentes disquisitio: or, The duty of children towards their parents: truly examined and stated. : In a letter to a friend in the city.</title>
+                  <author>Brydall, John, b. 1635?</author>
+               </titleStmt>
+               <extent>11 [i.e. 12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Battersby at Staple-Inn, next the Barrs in Holborn,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>P. 10 signed: J.B.</note>
+                  <note>Author suggested by Wing.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Page numbering reversed on p. 11-12.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Children --  Conduct of life.</term>
+               <term>Parent and child.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171192:1" rendition="simple:additions"/>
+            <head>
+               <hi>Pietatis in Parentes Diſquiſitio:</hi> OR, The Duty of CHILDREN TOWARDS THEIR PARENTS: Truly Examined and Stated.</head>
+            <head type="sub">In a Letter to a Friend in the City.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOUR kind Lines, with the Prints you were pleaſed to ſend me, I have received, for which I return you many Thanks; and tho' I do much approve of the Letter, writ<g ref="char:EOLhyphen"/>ten to a Friend in the Country, in the defence of the Rights of <hi>Primogeniture,</hi> yet I muſt declare to you, that I am afraid the ex<g ref="char:EOLhyphen"/>poſing of ſuch a Letter to publick view, may prove an Encourage<g ref="char:EOLhyphen"/>ment to all Elder Sons to live diſobedient and diſorderly Lives, ſee<g ref="char:EOLhyphen"/>ing the ill Practiſe of ſome Fathers, in Diſinheriting their Firſt-be<g ref="char:EOLhyphen"/>gotten Sons, is ſo much exploded thereby; and therefore I conceive the Publication of it is ſomewhat unſeaſonable; <hi>when we ſee, that the Son doth not only not Honour his Father, but even Diſhonoureth him, and is aſhamed of him. He is ſo far from Loving him, that he rather hateth him; ſo far from fearing him, that contrariwiſe, he mocketh and con<g ref="char:EOLhyphen"/>temneth him: And inſtead of Serving and Obeying him, he riſeth up and Conſpireth againſt him: If the Father be angry, the Son laboureth to anger him more: Briefly, ſcarce any Duty of a Child towards his Father
+<pb n="2" facs="tcp:171192:2" rendition="simple:additions"/> is ſeen now a days.</hi> O execrable Impiety! And to ſhew you, that I my ſelf abhor ſuch an Impious Behavior of any Son towards his Fa<g ref="char:EOLhyphen"/>ther, I will endeavour to draw you a Scheme of that <hi>Piety</hi> or <hi>Duty,</hi> which all <hi>Children</hi> do owe to their <hi>Parents</hi> by the Laws of God, of Nature, and of Man.</p>
+            <p>The Piety or Duty then of Children towards their Parents may be reduced to ſix Heads, comprehended in theſe very Words; <hi>Honour thy Father and thy Mother.</hi>
+            </p>
+            <p n="1">1. The firſt is, the <hi>Duty of Reverence,</hi> and that not only in External Geſture and Behaviour, but alſo Internal, which is that Sublime and Sacred Eſteem and Veneration a Child ought to have of his Parents, as the Authors and Original Cauſes of his Being, as alſo of his good and well Being; which Reverence towards Parents ſhall be evidenced from Scripture, from Nature, and from the Civil Law of the <hi>Romans.</hi>
+            </p>
+            <div n="1" type="section">
+               <head>
+                  <hi>I.</hi> From the Holy Scripture.</head>
+               <p>
+                  <hi>Honour thy Father and Mother,</hi> (which is the firſt Commandment with promiſe) <hi>that it may be well with thee, and that thou mayſt live long on Earth,</hi> Exod. 20.12. Deut. 5.16. Mat. 15.4. Mar. 7.10. Eph. 6.2. &amp; 3. From whence (Sir) we may make theſe Remarks:</p>
+               <p n="1">1. That Reverence to Parents is placed next to the Honour due to God: <hi>Nature</hi> (ſaith <hi>Plutarch) and the Law, which doth preſerve Na<g ref="char:EOLhyphen"/>ture, hath given the firſt place of Reverence and Honour, after God, un<g ref="char:EOLhyphen"/>to the Father and Mother:</hi> And Men cannot do any Service more ac<g ref="char:EOLhyphen"/>ceptable to God Almighty, than graciouſly and lovingly to pay to their Parents that Begot them, and to them that brought them up, the U<g ref="char:EOLhyphen"/>ſury of new and old Graces, which they have lent them; as contrari<g ref="char:EOLhyphen"/>wiſe there is no Sign of an Atheiſt more certain, than for a Man to ſet light by, and to offend his Parents.</p>
+               <p n="2">2. That the 5th Commandment only hath a ſpecial Promiſe annex<g ref="char:EOLhyphen"/>ed thereunto, to ſhew, that a more plentiful Bleſſing in this kind fol<g ref="char:EOLhyphen"/>loweth from the Obedience of this Commandment, than of the other that follow: Hence it is called by the Apoſtle St. <hi>Paul,</hi> the firſt Com<g ref="char:EOLhyphen"/>mandment with Promiſe; it being the firſt in order of the ſecond Table, and the only Commandment of that Table, which hath an ex<g ref="char:EOLhyphen"/>preſs Promiſe, and the only Commandment of the Ten, that hath a particular Promiſe.</p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>II.</hi> From Nature.</head>
+               <p>Our Parents are as Gods, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Earthly Gods, as <hi>Hierocles</hi> calls them, Conſpicuous and Viſible Gods, who do imitate the Invi<g ref="char:EOLhyphen"/>ſible and Unbegotten God, in giving Life unto others. And therefore <hi>Proculus</hi> ſays, that the Father is the Image of God; and <hi>Plato</hi> calls Parents God's Images or Repreſentatives, to whom we owe our Re<g ref="char:EOLhyphen"/>verence, as to the Gods themſelves, ſaith <hi>Ariſtotle;</hi> yet not ſuch an
+<pb n="3" facs="tcp:171192:2" rendition="simple:additions"/> Obedience and Reverence as is infinite and unlimited; ſo that this Duty of Reverence of Children towards Parents, the very Infidels, Ethnicks and Pagans, by the Inſtinct of Nature, do Inſtruct them. Add hereunto a farther Illuſtration of the Awe and Reverence we owe our Parents, taken from Heathen Nations. Amongſt the <hi>Lacedemo<g ref="char:EOLhyphen"/>nians</hi> this Cuſtom took place, that the younger ſort roſe up from their Seats before the Aged: Whereof, when one asked the Cauſe of <hi>Te<g ref="char:EOLhyphen"/>leucrus; It is</hi> (quoth he) <hi>to the end, that in doing this Honour to whom it belongeth not, they ſhould learn to yield greater Honour to their Parents.</hi>
+               </p>
+               <p>The Arrogancy and Irreverence of a Child was the Cauſe, that one of the <hi>Ephori</hi> publiſhed the Law of Teſtaments, whereby it was permited to every one from that time forward, to appoint whom he would his Heir. This Law ſerved well to make Children to pay the Duty of Obedience and Reverence to their Parents, and to cauſe them to be afraid of diſpleaſing them. To be brief, you will find among the <hi>Romans,</hi> that the Child was not admitted to plead his Father's Will after his Death, by way of Action, but only by way of Requeſt, uſing very Humble, Honourable and Reverent Speech of his Dead Father, and leaving the whole Matter to the Diſcretion and Religion of the Judges. But here may be ſtarted this Queſtion; <hi>Whether in ſitting or otherwiſe, the firſt Place and Prerogative of Honour, be due to the Father, a Private Man, or to the Son, that is a Magiſtrate?</hi>
+               </p>
+               <p>The Solution of this Queſtion propounded, we find given in <hi>Aulus Gellius,</hi> Lib. 2. Cap. 2. viz. <hi>In publicis locis, atque Muneribus, atque Actionibus patrum jura cum filiorum, qui in Magiſtratu Sunt, Poteſtatibus Collata inter quieſcere paululum, &amp; connivere: Sed cum extra Rempub<g ref="char:EOLhyphen"/>licam in Domeſticâre, atque Vita Sedeatur, Ambuletur in Convivio quo<g ref="char:EOLhyphen"/>que familiari Diſcumbatur; tum inter filium Magiſtratum, &amp; Patrem privatum, publicas Honores Ceſſare: Naturales atque genuinos exoriri.</hi>
+               </p>
+               <p>
+                  <hi>Buda</hi> in his Annotations upon the Pandects, hath obſerved many good Things belonging to the <hi>Roman</hi> Judgments, which curious Spi<g ref="char:EOLhyphen"/>rits may look into: Among the reſt, of the great Reſpect and Honour that was given to Magiſtrates. Concerning which Matter, we may uſe as a good Teſtimony, that which we read in <hi>Plutarch,</hi> of <hi>Fabius Maxi<g ref="char:EOLhyphen"/>mus</hi> his Son, when he was Cenſor, who ſeeing a far off, that his Fa<g ref="char:EOLhyphen"/>ther came towards him on Horſeback, and that his Sergeants, in re<g ref="char:EOLhyphen"/>gard of Fatherly Reverence, had not cauſed him to alight, did him<g ref="char:EOLhyphen"/>ſelf Command his Father to ſet Foot on Ground, which Command the Old Man, the Father, cheerfully and willingly obeyed, ſaying, <hi>Do<g ref="char:EOLhyphen"/>meſtick Power muſt give place to Publick-Authority.</hi>
+               </p>
+            </div>
+            <div n="3" type="section">
+               <head>
+                  <hi>III.</hi> From the Civil Law of the <hi>Romans.</hi>
+               </head>
+               <p>How unworthy ſoever Parents be in reſpect of their Perſonal De<g ref="char:EOLhyphen"/>fects; yet ſuch as God and Nature have placed under their Authori<g ref="char:EOLhyphen"/>ty,
+<pb n="4" facs="tcp:171192:3"/> are to <hi>count them worthy not only of Honour, but alſo of all Honour.</hi> Children being not herein ſo much to look unto their Perſons as unto the Ordinance of God, who hath placed them over their Children; and wiſely to conſider, that in reſpect of that Dignity and Power re<g ref="char:EOLhyphen"/>ceived from above, not of their Perſonal Virtues, all this Honour and Reverence is due unto them; <hi>Licet Legum Contemptor &amp; Impius Sit, tamen Pater eſt: Altho' he be a Contemner of the Laws, and a Wicked Man, yet is he a Father notwithſtanding,</hi> ſaith the Emperor <hi>Juſtinian,</hi> Novel. 12. Cap. 2. And <hi>Perſona Patris,</hi> ſaith the Lawyer <hi>
+                     <g ref="char:V">Ʋ</g>lpian, Filio ſemper Honeſta &amp; Sancta videri debet: The Perſon of the Father ought always to be accounted Honourable and Sacred to the Child,</hi> D. 37. 15, 9. Add hereunto theſe Texts of the <hi>Roman</hi> Laws, C. 2. 42, 2. D. 22. 3, 8. N. 155. Cap. 1. D. 37. 15, 1. D. 27. 10, 4. D. 2. 4, 6. C. 8. 47, 3. which prove, that the Duty of Piety and Reverence towards Parents, is an Obligation never to be Cancelled; and therefore let the Man be what he will, the name of a Father to his Child is Ve<g ref="char:EOLhyphen"/>nerable and Awful.</p>
+               <p n="2">2. The ſecond Duty is that of <hi>Love,</hi> which Children owe to their Pa<g ref="char:EOLhyphen"/>rents, as their Parents do alſo to them, the want of which natural Affection, is reckoned among the moſt odious Vices, <hi>Rom.</hi> 1.31. They are to bear their Parents a real Kindneſs, ſuch as may make them heartily deſirous of all manner of Good to them, and abhor to do any thing that may grieve or diſquiet them.</p>
+               <p>And ſeeing Children muſt labour to pleaſe their Parents in all things, it is certain, that no Action, Gift or Diſpoſition in them is more ac<g ref="char:EOLhyphen"/>ceptable, or contenteth Parents better, than to ſee good Will, and an aſſured and certain Friendſhip among themſelves.</p>
+               <p>It is reported, that <hi>Apollonida,</hi> Mother to King <hi>Eumenes,</hi> and to three other of his Brethren, accounted her ſelf Happy, as ſhe ſaid, and gave great Thanks to God, not for her Riches or Principality, but be<g ref="char:EOLhyphen"/>cauſe ſhe ſaw her three Younger Sons, as it were a Guard to their El<g ref="char:EOLhyphen"/>der Brother, who lived freely and moſt ſafely in the Midſt of them, with their Swords by their Sides and their Javelins in their Hands. Contrariwiſe, when King <hi>Xerxes</hi> perceived, that his Son <hi>Ochus</hi> lay in wait for his Brethren, to put them to Death, he Died for Diſ<g ref="char:EOLhyphen"/>pleaſure thereof. Therefore <hi>Euripides</hi> ſaid, that Wars between Bre<g ref="char:EOLhyphen"/>thren are grievous, but moſt of all to their Parents; becauſe he that hateth his Brother, and cannot abide to look upon him, muſt needs alſo be offended with him that Begat him, and her that Bare him.</p>
+               <p>Sir, I ſhall conclude this Duty of Children towards their Parents, by putting this Caſe, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>If my Father and my Son happen to be in ſuch a danger of Life, as one only can be preſerved and freed from it, what can Prudence perſwade me to do?</hi>
+               </p>
+               <pb n="5" facs="tcp:171192:3"/>
+               <p>To which Queſtion the Moraliſt offers to return this Reſolution for me; that I ought rather to Succor my Father than my Son. 1. <hi>Propter Sunguinem.</hi> 1. <hi>Propter Reverentiam &amp; Gratitudinem Patri Debitam.</hi> 3. <hi>Propter Diſparem Reſtitutionis Rationem Pater ſemel A<g ref="char:EOLhyphen"/>miſſus Reſtitui non Poteſt: Filius Amiſſus Reſtitui quandoque Poteſt per Succeſſionem alterius filii. Fredericus Windelinus, Lib.</hi> 1. <hi>de Recta vita, Cap.</hi> 5. <hi>Quaeſt</hi> 12.</p>
+               <p>And now you ſhall hear what the <hi>French-man Charron</hi> ſays, in an<g ref="char:EOLhyphen"/>ſwer to the ſame Querie: <hi>The Duty of Children towards their Parents</hi> (quoth he) <hi>is ſo certain, ſo due and requiſite, that it may not be diſpenſed withal by any other Duty or Love whatſoever, be it never ſo great.</hi> For if it ſhall happen, that a Man ſee his Father and his Son ſo endangered at one and the ſame inſtant, as that he cannot Reſcue and Succor them both, he muſt forſake his Son and go to his Father, tho' his Love to<g ref="char:EOLhyphen"/>wards his Son be greater. And the Reaſon is, becauſe the Duty of a Son towards his Father is more antient, and hath the greater Privi<g ref="char:EOLhyphen"/>ledge, and cannot be Abrogated by any latter Duty.</p>
+               <p n="3">3. The third Duty that Children do owe to their Parents, is that of Obedience; which is not only contained in the Fifth Commandment, but expreſsly enjoined in other places of Scripture, as <hi>Epheſ.</hi> 6.1. <hi>Children, obey your Parents in the Lord, for this is right;</hi> and again <hi>Co<g ref="char:EOLhyphen"/>loſ.</hi> 3.20. <hi>Children, obey your Parents in all things, for this is well plea<g ref="char:EOLhyphen"/>ſing to the Lord;</hi> which Obedience muſt be yielded even to the rough<g ref="char:EOLhyphen"/>eſt and hardeſt Commands of a Father, according to that moſt remar<g ref="char:EOLhyphen"/>kable Example of the <hi>Rechabites,</hi> who to obey the Command of their Father, never drank Wine in all their Lives.</p>
+               <p>But it may be here Queried, <hi>Whether Children are obliged to yield Obedience to all the Commands that ſhall be given by their Parents?</hi>
+               </p>
+               <p>It is Anſwered, that Children owe their Parents an Obedience in all things, unleſs where their Commands are contrary to the Laws of God and of Nature, and to the Municipal Laws of their Country; for in theſe Caſes the Duty to God and Nature, and to the Laws of the State, muſt be preſerved; and therefore if any Parents ſhould be ſo <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ked, as to require Obedience to ſuch kind of Commands, Children then offend not againſt their Duty, tho' they diſobey thoſe Com<g ref="char:EOLhyphen"/>mands; which Solution of the Querie, ſhall be fortified by theſe ſe<g ref="char:EOLhyphen"/>veral Authorities following:</p>
+               <p>It was the Advice of St. <hi>Paul, Children obey your Parents in the Lord;</hi> upon which words St. <hi>Hierome</hi> thus gloſſeth; <hi>For Children not to obey their Parents, is a Sin; but becauſe Parents may haply Command that which is unlawfull; therefore he adds in the Lord.</hi> And St. <hi>Chryſoſtom</hi> expounds them, <hi>Children obey your Parents in the Lord, that is, in all things, wherein you ſhall not diſobey God. Muſonius</hi> expreſſeth himſelf
+<pb n="6" facs="tcp:171192:4" rendition="simple:additions"/> thus; <hi>If a Son ſhall refuſe to yield Obedience unto a Father in ſuch Commands as are impious and ungodly, he ſhall not be accounted as diſobedient, injurious or wiced. Aulus Gellius</hi> approves not of this Opinion, <hi>That a Father is in all things to be obeyed. For</hi> (ſays he) <hi>what if he command his Son to betray his Country, to kill his own Mother,</hi> &amp;c. <hi>therefore the middle way is beſt and ſafeſt: In ſome things we muſt, in other ſome we muſt not obey.</hi> So <hi>Seneca</hi> the Father, <hi>All Commands oblige us not unto Obedience.</hi> So Quintillian, <hi>There is no neceſſity that Children ſhould execute all their Parents Commands; for there may be many things, which tho' commanded, may not lawfully be done; as if a Father command his Son to give his Suffrage, or to paſs a Sentence contrary to his Judgment, or to bear Witneſs to that whereof he is ignorant. If my Father command me to burn the Capitol, to poſſeſs my ſelf of ſuch a Fort or Caſtle; I may lawfully anſwer, Theſe things I muſt not do.</hi> I will conclude this point of Duty with that Story of <hi>A<g ref="char:EOLhyphen"/>geſilaus,</hi> who may be unto Children a good School-maſter therein; for being requeſted by his Father to give Sentence againſt Right, he was not aſhamed to deny him graciouſly with this Anſwer. <hi>You have taught me</hi> (O Father) <hi>from my youth to obey the Laws, and therefore I will now alſo obey you herein, by judging nothing againſt the Laws.</hi>
+               </p>
+               <p n="4">4. The fourth Duty of Children towards their Parents, is that of <hi>Succouring</hi> them in all their Wants and Neceſſities of what kind ſoe<g ref="char:EOLhyphen"/>ver; whether Weakneſs and Sickneſs of Body, Decayedneſs of Un<g ref="char:EOLhyphen"/>derſtanding or Poverty, and Lowneſs in Eſtate, as appears, 1 <hi>Tim</hi> 5.4. <hi>Matt.</hi> 15.4, 5.6. <hi>Mark</hi> 7.12. Author of the <hi>Whole Duty of Man, Part</hi> 14. <hi>Sect.</hi> 16. <hi>p.</hi> 291, 292. Archbiſhop <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi> in his Body of Di<g ref="char:EOLhyphen"/>vinity, <hi>p.</hi> 262. <hi>Edit.</hi> 1648. <hi>Ameſius</hi> in his Caſes of Conſcence, <hi>Lib.</hi> 5. <hi>Cap.</hi> 22. <hi>Queſtion</hi> 3d. and Doctor <hi>Hammond</hi> in his Paraphraſe and Annotations on 1 <hi>Tim. c.</hi> 5. <hi>v.</hi> 4. <hi>&amp;</hi> 8. Having cited both Scripture and ſome Divines for the enforcing of this Duty of aſſiſting and mi<g ref="char:EOLhyphen"/>niſtring to Parents in all their Needs and Neceſſities, we will ſee what the Civill and Canon Laws dictate for the nouriſhing them in their old Age, their Impotency and Want.</p>
+               <p>By the Civil Law of the <hi>Romans,</hi> Children are obliged unto their Parents to provide for their Suſtenance, ſo far forth as the Ability of Children will reach unto; for 'tis very unnatural, that the Parents ſhould want, ſo long as the Children have means to relieve them. In which caſe, if the Children refuſe to yield Comfort unto their Pa<g ref="char:EOLhyphen"/>rents, the Judge may interpoſe his Authority, and enjoyn them to maintain their Parents according to their Ability, and as to his Diſ<g ref="char:EOLhyphen"/>cretion ſhall ſeem meet; which if Children ſhould deny to yield un<g ref="char:EOLhyphen"/>to, the Judge may, by Diſtreſs of their Goods taken, and ſold to the value thereof, compel them to perform his Order; and yet that
+<pb n="7" facs="tcp:171192:4"/> only in ſuch caſe of Maintenance, and not to diſcharge Debts, where<g ref="char:EOLhyphen"/>in their Parents ſtand bound unto their Creditors, <hi>D.</hi> 25. 3. 5. <hi>c.</hi> 8. 47. 5. <hi>c.</hi> 5. 25. 1, <hi>&amp;</hi> 2. <hi>c.</hi> 6. 61. 8. 5. <hi>D.</hi> 27. 3. 1. 4. <hi>Ridleys</hi> View of the Civil and Eccleſiaſtical Law, <hi>Part</hi> 4. <hi>c.</hi> 2. <hi>Sect.</hi> 1. <hi>p.</hi> 376. <hi>Edit.</hi> 1675.</p>
+               <p>As for the Canon Law, we find therein a Caſe of one <hi>Hubaldus,</hi> who had ſworn that he would not Adminiſter to the Wants of his Mo<g ref="char:EOLhyphen"/>ther and his Brethren, and it was thus; St. <hi>Auguſtine</hi> being conſulted with about this <hi>Hubaldus,</hi> who (to ſave his own Life, being threat<g ref="char:EOLhyphen"/>ned) had bound himſelf by Oath to marry his own Concubine, and to thruſt his own Mother and Brethren out of doors, and never to re<g ref="char:EOLhyphen"/>lieve them, gives this Reſolution of the Caſe. <hi>That as to his Mar<g ref="char:EOLhyphen"/>riage with his Concubine, whom he had long enjoyed, his Oath was bind<g ref="char:EOLhyphen"/>ing, for that was no ſin: But as to his not relieving his Mother and Bre<g ref="char:EOLhyphen"/>thren, it could not bind him; for</hi> qui non alit, necat; <hi>to deny them Ne<g ref="char:EOLhyphen"/>ceſſaries, was no better than to kill them; and no Oath can oblige to a ſin ſo unnatural.</hi> Gratian cauſa, 22. <hi>Queſt.</hi> 4. <hi>c.</hi> 22.</p>
+               <p>From the Civil and Canon Laws I come (Sir,) to tender you ſome excellent Examples to be found among the very <hi>Heathens,</hi> of the great Love and natural Affections of Children towards their Parents, that were under very hard Circumſtances; and I will begin with that of <hi>Antigonus,</hi> the ſecond Son of <hi>Demetrius,</hi> which is worthy to be no<g ref="char:EOLhyphen"/>ted. For when his Father, being Priſoner, ſent him word by one of his Acquaintance to give no Credit, nor to make Account of any Let<g ref="char:EOLhyphen"/>ters from him, if it ſo fell out that <hi>Seleucus</hi> whoſe Priſoner he was, would compel him thereunto, and therefore that he ſhould not deliver up any of thoſe Towns which he held: <hi>Antigonus</hi> contrariwiſe wrote to <hi>Seleucus,</hi> that he would yield up all the Lands he had under his O<g ref="char:EOLhyphen"/>bedience, if he would deliver his Father.</p>
+               <p>We have another notable Example of Filial Love and Piety in <hi>Ci<g ref="char:EOLhyphen"/>mon</hi> the Son of Great <hi>Miltiades,</hi> whoſe Father dying in Priſon, as ſome ſay for Debt, and not having wherewithal to bury his Body, much <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſs to redeem it, being Arreſted for the Debt, whilſt it was carried to the Burial, according to the Laws of that Country, this <hi>Cimon</hi> ſold himſelf and his Liberty for Money to provide for his Funeral: He with his Plenty and Goods relieved not his Father, but with his Li<g ref="char:EOLhyphen"/>berty, which is dearer than all Goods; yea, and Life too. He help<g ref="char:EOLhyphen"/>eth not his Father living and in Neceſſity, but dead, and being no more a Father nor a Man. What had he done to ſuccour his Father living, wanting, and requiring his Help?</p>
+               <p>We have a third rare Example of daughter-like Piety; which was, that a Daughter gave Suck to her Father, who was condemned to die of that antient and uſual puniſhment of Famine, which never ſuffer<g ref="char:EOLhyphen"/>eth a found Man to paſs the ſeventh day. The Jaylor ſpying this Act
+<pb n="8" facs="tcp:171192:5"/> of Piety, gave notice thereof to the Magiſtrates, which being known to the People, the Daughter obtained pardon for her Fathers Life.</p>
+               <p n="5">5. The fifth <hi>Duty of Children is that of not attempting or enterpriſing a<g ref="char:EOLhyphen"/>ny Thing of Importance, without the Advice, Conſent and Approbation of their Parents, and eſpecially in Marriage:</hi> For in the caſe of Mar<g ref="char:EOLhyphen"/>riages, the Holy Scriptures tell us plainly, That Children ought not ſo much as to attempt to beſtow themſelves in Marriage, without their Parents Direction and Conſent, eſpecially Daughters, <hi>Gen.</hi> 24.1, 2. <hi>&amp;</hi> 21.21. <hi>&amp;</hi> 27.46. <hi>&amp;</hi> 28.1, 2.9. <hi>Judges</hi> 14.2. 1 <hi>Cor.</hi> 7. <hi>v.</hi> 36, 37, 38. <hi>Deut.</hi> 7.3. <hi>Jer.</hi> 29.6. <hi>Gen.</hi> 29.19. By which Texts it is evidenced, that the Father muſt be the efficient Cauſe of the Marri<g ref="char:EOLhyphen"/>age of his Children; That the beginning and ground of Matrimo<g ref="char:EOLhyphen"/>nial Contract is from the Conſent of the Parent, and the reaſon to perſwade Children to this Duty is ready at hand; for ſeeing their Parents have taken ſuch Pains and Travel in bringing them up, they ſhould reap ſome Fruits of their Labours in beſtowing of them. Be<g ref="char:EOLhyphen"/>ſides, they ſhould give them this Honour to eſteem them better able, and more wiſe to provide for their comfortable Marriage, than them<g ref="char:EOLhyphen"/>ſelves are. From Sacred Story, let's try what the Law of Nature, and the <hi>Roman</hi> Laws do pronounce, touching the Conſent of Parents in the Matrimonial Contracts of their Children. As to the Law of Nature, this Queſtion is ſtarted by <hi>Grotius, Whether the Conſent of Parents be by the Law of Nature requiſite to a perfect Marriage?</hi> Which, tho' ſome affirm, yet he is of Opinion, that by the ſole Law of Nature, the want of the Conſent of Parents nulls not a Marriage; for (ſays he) thoſe that hold the Affirmative are miſtaken, for that all their Arguments can enforce no more than this, That it is agreeable to the Duty they owe to their Parents, to crave their Conſents; which he eaſily grants them, provided that the Will of their Parents be not manifeſtly unjuſt. For if Children be to reverence their Parents in all things, ſurely they ought to do it moſt eſpecially in ſuch things, wherein the whole Nation is concerned, as in Marriages. And yet it cannot hence be inferred, that a Son hath not a moral Right to diſ<g ref="char:EOLhyphen"/>poſe of himſelf, if they conſent not. For he that Marries, ought to be of mature Age and Judgment, and he is to forſake his Fathers Houſe, ſo that he is herein exempted from his Fathers domeſtick Diſcipline; and becomes from thence <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Maſter of himſelf.</hi> And altho' the Duty of Love and Reverence do oblige him to ask the good Will of his Parents, yet doth not the Breach of that Duty null the Act of his Marriage. That other Nations did make void ſuch Marriages was not from the Law of Nature, but from the Will of their Law-makers. <hi>Grotius</hi> of the Rights of War and Peace, <hi>Lib.</hi> 2. <hi>c.</hi> 5. <hi>Sect.</hi> 10.</p>
+               <pb n="9" facs="tcp:171192:5"/>
+               <p>As for the Civil Law of the <hi>Romans,</hi> it is thereby provided out of the principles of the Law of Nature, that the Marriage of Daughters without the Conſent of Parents ſhould not be ratified, and the Pri<g ref="char:EOLhyphen"/>mitive Church, both by Doctrine and Practiſe, did in this part ap<g ref="char:EOLhyphen"/>prove of thoſe Laws. For the Puniſhment appointed for ſuch Mar<g ref="char:EOLhyphen"/>riages was, that neither Husband or Wife, nor Marriage nor Dowry, ſhould be acknowledged; and that the Children which ſhould be born, ſhould be eſteemed as Baſtards, <hi>Inſtit.</hi> 1. 10. 12. <hi>D.</hi> 23. 2. 2. <hi>D.</hi> 23. 3. 68. <hi>Ameſius</hi> in his Caſes of Conſcence, <hi>Lib.</hi> 5. <hi>c.</hi> 35. <hi>in fine.</hi>
+               </p>
+               <p>By Texts of the ſame Law it further appears, that the Conſent not only of the Parties themſelves, but of their Parents is neceſſary, if the Contractors were <hi>ſub poteſtate Parentum,</hi> the like Reaſon ſeemeth to be for Conſent of Tutors, <hi>Inſtit.</hi> 1. 10. <hi>in princ. D.</hi> 23. 2. 2. 35. <hi>D.</hi> 23. 2. 18. <hi>c.</hi> 5. 4. 18. <hi>D.</hi> 23. 2. 34. But it is now (ſaith an Author) received for a general Opinion, that the good Will of Pa<g ref="char:EOLhyphen"/>rents is required, in regard of Honeſty, not of Neceſſity, according to the Canons, which exact neceſſarily none other Conſent, but only the Partys themſelves, whoſe Conjunction is in hand. The Womans Lawyer, <hi>Lib.</hi> 2. <hi>Sect.</hi> 3. <hi>p.</hi> 53. <hi>Edit.</hi> 1632.</p>
+               <p n="6">6. The ſixth and laſt Duty that Children do owe to their Parents, is that of enduring mildly and gently the Vices, Imperfections and teſty and impatient Humours of Parents, their Severity and Rigour; and therefore now no Unkindneſs, no fault of the Parent can acquit the Child of this Duty: But as St. <hi>Peter</hi> tells Servants, that they muſt be ſubject not only to the good and gentle Maſters, but alſo to the froward; ſo certainly it belongs to Children to perform Duty not only to the kind and virtuous, but even to the harſheſt and wickedſt Parents. If a Father promiſe any thing to his Children, they have a full Right to his Performance; but in caſe he prove diſhoneſt, he doth not thereby loſe his Right to govern them, nor can they be ex<g ref="char:EOLhyphen"/>cuſed from their Duty of Reverence, Honour, Love and Obedience towards him. To be ſhort, If indeed Parents have Infirmities, if guilty of Errors and Miſdemeanours, it muſt be the Childrens buſi<g ref="char:EOLhyphen"/>neſs to cover and conceal them, like <hi>Sh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m</hi> and <hi>Japhet,</hi> who while curſed <hi>Cham</hi> publiſhed and diſcloſed the Nakedneſs of their Father, covered it. The very <hi>Heathens</hi> may be our School-maſters in this matter of hiding and patiently bearing with the Infirmities and Severities of Parents.</p>
+               <p>
+                  <hi>Ames parentem ſi aequus, ſi non feras; Thy Parents love if good; if bad, yet bear.</hi> Terentius Hecyra; <hi>nam matris ferre injurias me, pietas jubet;</hi> to bear with Parents, Piety commands.</p>
+               <p>That of <hi>Cicero</hi> in his Oration for <hi>Cluentius</hi> is remarkable: <hi>Non modo reticere homines parentum injurias, ſed etiam aequo animo ferr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="10" facs="tcp:171192:6"/> oportet; Men ought not only to conceal the Injuries of their Parents, but to bear them with Patience.</hi>
+               </p>
+               <p>A Young Man of <hi>Eretria,</hi> that had been long Educated under <hi>Zeno,</hi> being demanded, What he had Learned? anſwered, <hi>Meekly to bear his Father's Wrath.</hi> Add to this, that hath been ſaid of the Duty of mildly enduring the Severity and Rigor of Parents, the famous Story of <hi>Manlius,</hi> and 'tis this; <hi>The Tribune</hi> Pomponius <hi>having Accuſed the Father of this</hi> Manlius, <hi>in the preſence of the People, of many Crimes, and amongſt others, that he over-cruelly handled his Son, enforcing him to Till the Earth:</hi> The Son goeth to the Tribune, and finding him in his Bed, puting the point of his Dagger to his Throat, enforced him to Swear, that he would deſiſt from his Purſuit he made againſt his Father, deſiring rather to endure his Father's Rigor, than to ſee him Troubled for it.</p>
+               <p>All theſe fore-mentioned Duties ought to be performed by Chil<g ref="char:EOLhyphen"/>dren, who indeed will find no difficulty in them, if they do but ſeri<g ref="char:EOLhyphen"/>ouſly conſider, how Chargeable they have been to their Parents, and with what Care and Affection they have been brought up. But they ſhall never attain to the right Knowledge thereof, until they enjoy Children of their own, as he that was found to beſtride a Hobby-Horſe, playing with his Children, deſiring him who ſo took him in the Act, to be ſilent, until he were himſelf a Father, accounting him till that time no indifferent Judge in this Action.</p>
+               <p>
+                  <hi>Thus (Worthy Sir) having freely laid before you the true Extent and Latitude of that Natural and Religious Piety, which Children owe to their Parents, I am now to beſeech you to wink at what is written amiſs in this long Letter, and what is not ſo to afford it a kind Entertain<g ref="char:EOLhyphen"/>ment, as coming from him, who is Cordially,</hi>
+               </p>
+               <closer>
+                  <signed>Your moſt Affectionate Humble Servant, <hi>J. B.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="12" facs="tcp:171192:6" rendition="simple:additions"/>
+            <head>Poſtſcript.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce you have been ſo kind as to ſend me ſome of your City Pamphlets, particularly that written in defence of <hi>Primogeniture,</hi> I will make you ſome kind of Requital, by preſenting to your view, the Cauſes (and none other beſides) which the moſt Famous and Re<g ref="char:EOLhyphen"/>nowned Emperor <hi>Juſtinian</hi> has been pleaſed to Ordain, as Proofs ſufficient for the Convicting Children of Ingratitude, and conſequently Obnoxious to the Penalty of Exheredation. Now if the Perſon lately Diſinherited, be Guilty of any one of thoſe Cauſes, he well deſerves the Puniſhment he has met withal: But if not Guilty of any one of them, I muſt e'en concur with the Author <hi>B. J.</hi> in Condemning that <g ref="char:V">Ʋ</g>ſage the Son has had from the Father, as Impious, Cruel and <g ref="char:V">Ʋ</g>nnatural.</p>
+            <p>
+               <hi>The Juſt Cauſes then of Diſinheriting Children, ſpecified by the ſaid</hi>
+               <note n="(a)" place="margin">Novella Conſtit. C. <hi>3.</hi> Quae Sunt Ju<g ref="char:EOLhyphen"/>ſtae Exheredationis Liberorum Cauſae.</note> Juſtinian, <hi>are in number Fourteen, and they are theſe which follow, and thus</hi> Engliſhed:
+<list>
+                  <item>
+                     <hi>1.</hi> If any Son has laid violent Hands on his Father.</item>
+                  <item>
+                     <hi>2.</hi> If a Son has offered to his Father and his Family ſome Lewd and Diſ<g ref="char:EOLhyphen"/>honeſt Injury, as by Marrying himſelf to a Common Whore or Strumpet.</item>
+                  <item>
+                     <hi>3.</hi> If a Son ſhall Accuſe his Father in ſuch Criminal Matters as do not immediately touch the Prince and the weal Publick.</item>
+                  <item>
+                     <hi>4.</hi> If a Son conſtantly Converſeth with ſuch Fellows as are guilty of Ill, Lewd and Miſchievous Practiſes.</item>
+                  <item>
+                     <hi>5.</hi> If a Son makes an attempt to deſtroy his Father's Life, either by Poi<g ref="char:EOLhyphen"/>ſon, or any other ways.</item>
+                  <item>
+                     <hi>6.</hi> If a Son has Carnally known his Step-mother, or his Father's Con<g ref="char:EOLhyphen"/>cubine.</item>
+                  <item>
+                     <hi>7.</hi> If a Son be a Calumniator, or one that Forges an Accuſation againſt his own Father; whereby he has ſuſtained great Trouble, Damage and Expence.</item>
+                  <item>
+                     <hi>8.</hi> If a Father has the Misfortune to be clapt up in Priſon, and his Son is requeſted by him to Releaſe him out of Jayl, and the Son refuſes to do it.</item>
+                  <item>
+                     <hi>6.</hi> If a Son be Convicted of hindering his Father from making a Will; and if afterwards the Father has an opportunity to make one, he is Im<g ref="char:EOLhyphen"/>powered to Diſinherit ſuch a Son by his laſt Will and Teſtament.</item>
+                  <pb n="11" facs="tcp:171192:7"/>
+                  <item>
+                     <hi>10.</hi> If a Son, contrary to the Will and Pleaſure of his own Father, pre<g ref="char:EOLhyphen"/>ſumes to turn an Actor upon the Stage, or become a Mimick, and in this way of Living ſhall perſiſt.</item>
+                  <item>
+                     <hi>11.</hi> If a Father is minded to give his Daughter in Marriage to ſome par<g ref="char:EOLhyphen"/>ticular Man, and to that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd proffers with her a Portion according to the ſtrength of his Eſtate, and the Daughter refuſes to conſent to ſuch Marriage, but rather chooſeth to lead a Wicked, Lewd, Debauched and Luxurious Life.</item>
+                  <item>
+                     <hi>12.</hi> If a Father chance to be wholly deprived of his Wits, and his Son will take no Care of him, whilſt he remains in ſuch a ſad Condition; the Father may, if he has the good Fortune to come once again to his Rea<g ref="char:EOLhyphen"/>ſon and Underſtanding, deprive his Son for ſuch Ingratitude of his In<g ref="char:EOLhyphen"/>heritance, by a laſt Will and Teſtament.</item>
+                  <item>
+                     <hi>13.</hi> If a Father has the ill Luck to fall into Captivity, and his Son do not ſpeedily Redeem him out of this Calamity; and afterward the Father has the good Fortune to make his own Eſcape out of Slavery; the Father has it in his Power to write this in a Will, as a juſt Cauſe of Ingrati<g ref="char:EOLhyphen"/>tude, and thereby Diſinherit his Son.</item>
+                  <item>
+                     <hi>14.</hi> If a Father, that is well known to be Orthodox, perceiveth his Son not to be of the Catholick Faith, nor to Communicate in Holy Church, wherein the moſt Bleſſed Patriarchs do Preach and Publiſh with one Con<g ref="char:EOLhyphen"/>ſent and Agreement the Faith that is moſt Right and Orthodox; the Father has Power and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> for this very <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Brand his Son with a M<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tit<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e, as to make him ever unca<g ref="char:EOLhyphen"/>pable of Inheriting his Eſtate.</item>
+               </list>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>
+               <hi>Jus Primogeniti:</hi> Or, The Dignity, Right, and Priviledge of the Firſt-Born; Inquiſited and Defended againſt the Impious Practiſe of ſome Fathers, in Diſinheriting their Firſt-Begotten Sons. In a Letter to a Friend in the Country. By <hi>B. I.</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Battersby</hi> at <hi>Staple-Inn,</hi> next the <hi>Barrs</hi> in <hi>Holborn,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
